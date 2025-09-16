@@ -1,0 +1,3 @@
+[submodule "typing-practise"]
+	path = typing-practise
+	url = https://github.com/myarcana/typing-practise.git
