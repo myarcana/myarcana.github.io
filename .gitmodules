@@ -1,3 +1,6 @@
 [submodule "typing-practise"]
 	path = typing-practise
 	url = https://github.com/myarcana/typing-practise.git
+[submodule "image-cropper"]
+	path = image-cropper
+	url = https://github.com/myarcana/image-cropper.git
