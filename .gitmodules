@@ -4,3 +4,6 @@
 [submodule "image-cropper"]
 	path = image-cropper
 	url = https://github.com/myarcana/image-cropper.git
+[submodule "live-markdown"]
+	path = live-markdown
+	url = https://github.com/myarcana/live-markdown.git
