@@ -7,3 +7,6 @@
 [submodule "live-markdown"]
 	path = live-markdown
 	url = https://github.com/myarcana/live-markdown.git
+[submodule "url-to-text"]
+	path = url-to-text
+	url = https://github.com/myarcana/url-to-text.git
