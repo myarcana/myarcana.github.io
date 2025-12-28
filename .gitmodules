@@ -10,3 +10,6 @@
 [submodule "url-to-text"]
 	path = url-to-text
 	url = https://github.com/myarcana/url-to-text.git
+[submodule "screenshot-stitcher"]
+	path = screenshot-stitcher
+	url = https://github.com/myarcana/screenshot-stitcher.git
